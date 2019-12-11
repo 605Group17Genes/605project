@@ -1,6 +1,6 @@
 # 605project
  
-STAT605 class project at University of Wisconsin-Madison.
+STAT605 class project at University of Wisconsin-Madison.  
 The purpose of our project is to ﬁnd potential cholesterol genes using parallel computing through CHTC. 
 Two diﬀerent datasets, one is about human genes and one is about mouse genes are analyzed. 
 We calculated biweight midcorrelation between gene “LDLR” and other genes, and deﬁned highly correlated ones as potential cholesterol genes.
@@ -15,7 +15,7 @@ The code folder includes codes run in CHTC.
  
 ## Data
  
-The data folder includes the human_best100.csv and mouse_best100.csv, which are the top 100 genes most correlated with LDLA and their bicorrelation and p-values.
+The data folder includes the human_best100.csv and mouse_best100.csv, which are the top 100 genes most correlated with LDLA and their bicorrelation and p-values.  
 The data folder also includes the columns of LDLR and top 10 most correlated genes stetched from raw data. It is used in the report.rmd file for plots in analysis.
  
 ## Figures
