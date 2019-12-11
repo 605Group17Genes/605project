@@ -15,8 +15,7 @@ The code folder includes codes run in CHTC.
  
 ## Data
  
-The data folder includes the human_best100.csv and mouse_best100.csv, which are the top 100 genes most correlated with LDLA and their bicorrelation and p-values.  
-The data folder also includes the columns of LDLR and top 10 most correlated genes stetched from raw data. It is used in the report.rmd file for plots in analysis.
+The data folder includes the human_best100.csv and mouse_best100.csv, which are the top 100 genes most correlated with LDLA and their bicorrelation and p-values. The data folder also includes the columns of LDLR and top 10 most correlated genes stetched from raw data. It is used in the report.rmd file for plots in analysis.
  
 ## Figures
  
